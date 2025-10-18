@@ -23,7 +23,6 @@ return {
       -- github_dark_colorblind
       -- github_light_default
       -- github_light_colorblind
-      vim.cmd.colorscheme("github_light_default")
     end,
   },
 }
