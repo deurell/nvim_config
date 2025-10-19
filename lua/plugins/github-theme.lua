@@ -1,6 +1,7 @@
 return {
   {
     "projekt0n/github-nvim-theme",
+    enabled = false,
     priority = 1000,
     lazy = false,
     config = function()
